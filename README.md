@@ -1,6 +1,6 @@
 # Maven仓库
 
-#### 一 、Maven私服地址 测试222
+#### 一 、Maven私服地址 测试123
 
 #### `maven { url "https://raw.githubusercontent.com/wangyuan0217/Maven/master" }`
 
